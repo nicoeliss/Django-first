@@ -1,0 +1,4 @@
+# pyhton 3.12
+
+django==4.2
+

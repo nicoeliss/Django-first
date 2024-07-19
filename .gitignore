@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+pipfile
+pipfile.lock
+
+#deberiammos agregar la base de datos
